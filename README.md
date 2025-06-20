@@ -5,6 +5,12 @@
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Data Analysis](https://img.shields.io/badge/Role-Data--Analyst-brightgreen)
+![Netflix](https://img.shields.io/badge/Dataset-Netflix-red)
+![Status](https://img.shields.io/badge/Project-Complete-success)
+
+
 ## Objectives
 
 - Analyze the distribution of content types (movies vs TV shows).
@@ -270,6 +276,5 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author - Om Kumar
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
 
 Thank you for your support, and I look forward to connecting with you!
